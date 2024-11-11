@@ -30,3 +30,4 @@ first_result.save()  # Make sure to check the correct path of the saved image
 saved_image_path = '/content/results_1.jpg'  # This path might change depending on your environment and run
 display(Image(saved_image_path))
 ```
+![results_1](https://github.com/user-attachments/assets/37a7c10f-efbb-450a-bac4-377bebbebcd7)
